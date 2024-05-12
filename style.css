@@ -23,7 +23,7 @@ nav{
 }
 
 .container-fluid{
-    background-color: var(--bg-color);
+    /* background-color: var(--bg-color); */
     border-radius: 100px;
     margin-top: 25px;
 }
@@ -65,4 +65,3 @@ nav{
     border-radius: 40px;
     color:var(--bg-color);  
 }
-
